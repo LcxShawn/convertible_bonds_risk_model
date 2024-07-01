@@ -11,10 +11,15 @@
  
 有3支可转债的正股被ST，有2支被*ST\
 目前的想法是做一个程序方便地通过数据，计算各种因素下的退市风险
+### 国九条
+https://www.gov.cn/zhengce/content/202404/content_6944877.htm
 
 ## 可转债基础
 ### 交易规则
 https://xueqiu.com/2714928434/283366714
+### 发行规则
+http://www.sse.com.cn/lawandrules/regulations/csrcannoun/c/5736550.pdf
+
 
 ## 四类强制退市指标（ST）
 
